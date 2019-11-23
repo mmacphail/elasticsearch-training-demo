@@ -6,9 +6,9 @@
 
 ## Usage
 
-To launch the cluster, please set the following system parameter: 
-```sh sysctl -w vm.max_map_count=262144```
-See more details [here](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html)
+To launch the cluster, please set the following system parameter: <br/>
+```sh sysctl -w vm.max_map_count=262144```<br/>
+See more details [here](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html).
 
 ## Author
 
